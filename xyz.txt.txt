@@ -18,6 +18,6 @@ as user can access only tmp directory not other directory(createing anything)
 
 as admin what are the servers are running on this instance 
 
-top -- this is going show the service are running(press q to back)
+
 
 
